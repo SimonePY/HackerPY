@@ -1,2 +1,2 @@
 # HackerRank
-HackerRank challenges regarding Python language.
+My own solutions for HackerRank python challanges.
