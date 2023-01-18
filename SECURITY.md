@@ -1,3 +1,6 @@
 ## Reporting a Vulnerability
 
-If you find any Vulnerability or error in my python lesson code, please send a email to **simonestranieri2518@gmail.com**.
+# If you find any Vulnerability or error in my python lesson code, please contact me using this methods.
+
+1) E-Mail : **simonestranieri2518@gmail.com**
+2) Discord : **Simons#7609**
